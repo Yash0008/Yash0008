@@ -9,8 +9,9 @@ Interested in C/C++, Programming, DSA, Development.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [singhyash575@gmail.com](mailto:singhyash575@gmail.com)
 * 🚀  I'm currently working on [GitHub](http://www.github.com/Yash0008)
-* 🧠  I'm learning C++
-* 🤝  I'm open to collaborating on interesting projects
+* 🧠  I'm learning C++. 
+* 👽  connect with me (https://linktr.ee/_ysh_)
+* 🤝  I'm open to collaborating on interesting projects.
 * ⚡  good at GYM🏋️
 
 ### Skills
