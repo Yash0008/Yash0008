@@ -4,14 +4,15 @@ Hi 👋 My name is Yash Kumar
 Programmer
 ----------
 
-Interested in C/C++, Programming, DSA, Development.
+Interested in C/C++, Programming, DSA,  Web-Development.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India.
 * ✉️  You can contact me at [singhyash575@gmail.com](mailto:singhyash575@gmail.com)
 * 🚀  I'm currently working on [GitHub](http://www.github.com/Yash0008)
-* 🧠  I'm learning C++. 
+* 🧠  Skills - #C,C++,Java,WEB-Development,MONGODB,MYSQL. 
 * 👽  connect with me (https://linktr.ee/_ysh_)
-* 🤝  I'm open to collaborating on interesting projects.
+* 💻  my portfolio(https://yashkumarportfolio.netlify.app/)
+* 🤝  I'm open to collaborating on interesting projects
 * ⚡  good at GYM🏋️
 
 ### Skills
@@ -27,7 +28,7 @@ Interested in C/C++, Programming, DSA, Development.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Yash0008" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yashsingh_8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yashkumar0008" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Yash41616848" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/yashsingh008" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Yash0008" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yashsingh_8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yashkumar0008" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/ysh_008" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/yashsingh008" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
